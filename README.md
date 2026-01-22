@@ -182,7 +182,7 @@ Prices and alert statuses update automatically every 5 seconds.
 ## 📸 Screenshots
 
 ### Dashboard
-docs/screenshots/live-pricing-demo.png
+screenshot/live-pricing-demo.png
 
 ## 👤 Author
 
